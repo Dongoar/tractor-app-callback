@@ -6,7 +6,7 @@
       "modelo": "5075E",
       "precio": 35000,
       "horas_uso": 1200,
-      "url_imagen": "https://www.deere.com/assets/images/region-3/home-page/trator-maquina-agricola.jpg",
+      "url_imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/John_Deere_5075E.jpg/320px-John_Deere_5075E.jpg",
       "origen": "externo"
     },
     {
@@ -15,7 +15,7 @@
       "modelo": "T7.210",
       "precio": 48000,
       "horas_uso": 900,
-      "url_imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1ud7SdI9Ki3sy8Jfk2_1JLoRD2_LUzcWtmw&s",
+      "url_imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/New_Holland_T7.210.jpg/320px-New_Holland_T7.210.jpg",
       "origen": "externo"
     },
     {
@@ -24,7 +24,7 @@
       "modelo": "MF 5713",
       "precio": 40000,
       "horas_uso": 800,
-      "url_imagen": "https://static.ferreyros.com.pe/fcsaprdferreyros01/2020/08/mf-5710-mediana-potencia.jpg",
+      "url_imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Massey_Ferguson_MF_5713.jpg/320px-Massey_Ferguson_MF_5713.jpg",
       "origen": "externo"
     }
   ]
