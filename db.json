@@ -6,7 +6,7 @@
       "modelo": "5075E",
       "precio": 35000,
       "horas_uso": 1200,
-      "url_imagen": "https://www.deere.com/assets/images/region-3/home-page/trator-maquina-agricola.jpg"
+      "url_imagen": "https://www.deere.com/assets/images/region-3/home-page/trator-maquina-agricola.jpg",
       "origen": "externo"
     },
     {
@@ -15,7 +15,7 @@
       "modelo": "T7.210",
       "precio": 48000,
       "horas_uso": 900,
-      "url_imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1ud7SdI9Ki3sy8Jfk2_1JLoRD2_LUzcWtmw&s"
+      "url_imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1ud7SdI9Ki3sy8Jfk2_1JLoRD2_LUzcWtmw&s",
       "origen": "externo"
     },
     {
@@ -24,9 +24,8 @@
       "modelo": "MF 5713",
       "precio": 40000,
       "horas_uso": 800,
-      "url_imagen": "https://static.ferreyros.com.pe/fcsaprdferreyros01/2020/08/mf-5710-mediana-potencia.jpg"
+      "url_imagen": "https://static.ferreyros.com.pe/fcsaprdferreyros01/2020/08/mf-5710-mediana-potencia.jpg",
       "origen": "externo"
     }
   ]
 }
-
